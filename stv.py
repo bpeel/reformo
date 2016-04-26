@@ -86,7 +86,40 @@ def aldonu_voĉdonon(voĉdono):
         kandidato = kandidatoj[elekto]
         if kandidato.elektebla:
             kandidato.aldonu_voĉdonon(voĉdono)
-            break
+            return kandidato
+    return None
+
+def nomu_voĉdonon(kandidato, valoro, frakcio):
+    if frakcio == None:
+        return "{}({})".format(kandidato, valoro)
+    else:
+        return "{}({} × {} = {})".format(kandidato,
+                                         valoro,
+                                         frakcio,
+                                         valoro.multipliku(frakcio))
+
+def transdonu_voĉdonojn(voĉdonoj, frakcio = None):
+    elektitaj_kandidatoj = {}
+
+    for voĉdono in voĉdonoj:
+        originala_valoro = voĉdono.valoro
+        if frakcio != None:
+            voĉdono.valoro = voĉdono.valoro.multipliku(frakcio)
+        kandidato = aldonu_voĉdonon(voĉdono)
+
+        if kandidato != None:
+            nomo = kandidato.nomo
+            if nomo in elektitaj_kandidatoj:
+                elektitaj_kandidatoj[nomo] = \
+                    elektitaj_kandidatoj[nomo].adiciu(originala_valoro)
+            else:
+                elektitaj_kandidatoj[nomo] = originala_valoro
+
+    print("Transdonitaj voĉdonoj: {}".
+          format(", ".join(map(lambda k: nomu_voĉdonon(k,
+                                                       elektitaj_kandidatoj[k],
+                                                       frakcio),
+                               sorted(elektitaj_kandidatoj.keys())))))
 
 def eligu_rezultojn(kandidatoj):
     plej_longa_nomo = 0
@@ -154,17 +187,16 @@ while True:
 
             print("Elektiĝas:           {}\n"
                   "Superfluaj voĉdonoj: {}\n"
-                  "Frakcio:             {}\n".
+                  "Frakcio:             {}".
                   format(kandidato.nomo,
                          superfluaj_voĉdonoj,
                          frakcio))
 
             kandidato.elektebla = False
             elektitoj.append(kandidato)
-            
-            for voĉdono in kandidato.voĉdonoj:
-                voĉdono.valoro = voĉdono.valoro.multipliku(frakcio)
-                aldonu_voĉdonon(voĉdono)
+
+            transdonu_voĉdonojn(kandidato.voĉdonoj, frakcio)
+            print()
             break
     else:
         malplej_da_poentoj = Frakcio(nombro_de_voĉdonoj)
@@ -183,9 +215,9 @@ while True:
 
         kandidato = malplej_bona_kandidato
 
-        print("Foriĝas: {}\n".format(kandidato.nomo))
+        print("Foriĝas: {}".format(kandidato.nomo))
         kandidato.elektebla = False
-        for voĉdono in kandidato.voĉdonoj:
-            aldonu_voĉdonon(voĉdono)
+        transdonu_voĉdonojn(kandidato.voĉdonoj)
+        print()
 
 print("Elektitoj: {}".format(", ".join(map(lambda e: e.nomo, elektitoj))))
