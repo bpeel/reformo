@@ -24,7 +24,7 @@ class Frakcio:
         if subo == None:
             subo = 1
         minimumo = min(supro, subo)
-        for i in range(max(minimumo // 2, 1), 0, -1):
+        for i in range(max(minimumo, 1), 0, -1):
             if supro % i == 0 and subo % i == 0:
                 mem.supro = supro // i
                 mem.subo = subo // i
