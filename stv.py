@@ -66,8 +66,8 @@ class Frakcio:
         return mem.supro * alia.subo < alia.supro * mem.subo
 
 class Voĉdono:
-    def __init__(mem, ordo):
-        mem.valoro = Frakcio(1)
+    def __init__(mem, ordo, valoro = 1):
+        mem.valoro = Frakcio(valoro)
         mem.ordo = ordo
 
 class Kandidato:
@@ -118,16 +118,16 @@ kandidatoj = [
 
 nombro_de_voĉdonoj = 0
 
-for voĉdono in ([ [ 0, 1, 2 ] ] * 9 +
-                [ [ 0, 2, 1 ] ] * 45 +
-                [ [ 3, 4, 6, 7, 8 ] ] * 18 +
-                [ [ 4, 3, 6, 7, 8 ] ] * 18 +
-                [ [ 5, 3, 4, 6, 7, 8 ] ] * 4 +
-                [ [ 6, 7, 8, 3, 4, 5 ] ] * 30 +
-                [ [ 7, 6, 8, 3, 4, 5 ] ] * 15 +
-                [ [ 8, 6, 7, 3, 4, 5 ] ] * 5):
-    aldonu_voĉdonon(Voĉdono(voĉdono))
-    nombro_de_voĉdonoj += 1
+for voĉdono in [Voĉdono([ 0, 1, 2 ], 9),
+                Voĉdono([ 0, 2, 1 ], 45),
+                Voĉdono([ 3, 4, 6, 7, 8 ], 18),
+                Voĉdono([ 4, 3, 6, 7, 8 ], 18),
+                Voĉdono([ 5, 3, 4, 6, 7, 8 ], 4),
+                Voĉdono([ 6, 7, 8, 3, 4, 5 ], 30),
+                Voĉdono([ 7, 6, 8, 3, 4, 5 ], 15),
+                Voĉdono([ 8, 6, 7, 3, 4, 5 ], 5)]:
+    aldonu_voĉdonon(voĉdono)
+    nombro_de_voĉdonoj += voĉdono.valoro.supro
 
 kvoto = (nombro_de_voĉdonoj + NOMBRO_DE_SEĜOJ) // (NOMBRO_DE_SEĜOJ + 1)
 kvoto_frakcio = Frakcio(kvoto)
