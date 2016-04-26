@@ -4,18 +4,18 @@ import cairo
 import math
 
 parties = [
-    [ "Conservatives", (29, 113, 184), 36.9, 331 ],
-    [ "Labour", (190, 22, 34), 30.4, 232 ],
+    [ "Konservemuloj", (29, 113, 184), 36.9, 331 ],
+    [ "Laboristoj", (190, 22, 34), 30.4, 232 ],
     [ "UKIP", (106, 37, 118), 12.6, 1 ],
-    [ "Liberal Democrats", (251, 186, 48), 7.9, 8 ],
+    [ "Liberalaj Demokratoj", (251, 186, 48), 7.9, 8 ],
     [ "SNP", (0, 242, 229), 4.7, 56 ],
-    [ "Green Party", (156, 196, 58), 3.8, 1 ],
+    [ "Verda Partio", (156, 196, 58), 3.8, 1 ],
     [ "DUP", (193, 63, 91), 0.6, 8 ],
     [ "Plaid Cymru", (0, 130, 67), 0.6, 3 ],
     [ "Sinn Fein", (13, 103, 46), 0.6, 4 ],
     [ "Ulster Unionist Party", (168, 168, 212), 0.4, 2 ],
     [ "SDLP", (47, 172, 102), 0.3, 3 ],
-    [ "Others", (90, 90, 90), 1.2, 0 ]
+    [ "Aliaj", (90, 90, 90), 1.2, 0 ]
 ]
 
 SIZE = 800
