@@ -147,11 +147,18 @@ while True:
         if not kandidato.elektebla:
             continue
         if kandidato.poentoj >= kvoto_frakcio:
-            print("Elektiĝas: {}".format(kandidato.nomo))
+            superfluaj_voĉdonoj = kandidato.poentoj.subtrahu(kvoto_frakcio)
+            frakcio = superfluaj_voĉdonoj.dividu(kandidato.poentoj)
+
+            print("Elektiĝas:           {}\n"
+                  "Superfluaj voĉdonoj: {}\n"
+                  "Frakcio:             {}\n".
+                  format(kandidato.nomo,
+                         superfluaj_voĉdonoj,
+                         frakcio))
+
             kandidato.elektebla = False
             elektitoj.append(kandidato)
-            frakcio = (kandidato.poentoj.subtrahu(kvoto_frakcio).
-                       dividu(kandidato.poentoj))
             
             for voĉdono in kandidato.voĉdonoj:
                 voĉdono.valoro = voĉdono.valoro.multipliku(frakcio)
@@ -174,7 +181,7 @@ while True:
 
         kandidato = malplej_bona_kandidato
 
-        print("Foriĝas: {}".format(kandidato.nomo))
+        print("Foriĝas: {}\n".format(kandidato.nomo))
         kandidato.elektebla = False
         for voĉdono in kandidato.voĉdonoj:
             aldonu_voĉdonon(voĉdono)
