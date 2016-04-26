@@ -132,7 +132,9 @@ for voĉdono in [Voĉdono([ 0, 1, 2 ], 9),
 kvoto = (nombro_de_voĉdonoj + NOMBRO_DE_SEĜOJ) // (NOMBRO_DE_SEĜOJ + 1)
 kvoto_frakcio = Frakcio(kvoto)
 
-print("Kvoto = {}\n".format(kvoto))
+print("Nombro de voĉdonoj = {}\n"
+      "Kvoto              = {}\n".
+      format(nombro_de_voĉdonoj, kvoto))
 
 elektitoj = []
 
