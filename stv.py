@@ -2,21 +2,84 @@
 
 NOMBRO_DE_SEĜOJ = 3
 
+class Frakcio:
+    FRAKCIOJ = {
+        (1, 4): "¼",
+        (1, 2): "½",
+        (3, 4): "¾",
+        (1, 3): "⅓",
+        (2, 3): "⅔",
+        (1, 5): "⅕",
+        (2, 5): "⅖",
+        (3, 5): "⅗",
+        (4, 5): "⅘",
+        (1, 6): "⅙",
+        (5, 6): "⅚",
+        (1, 8): "⅛",
+        (3, 8): "⅜",
+        (5, 8): "⅝",
+        (7, 8): "⅞"
+    }
+    def __init__(mem, supro, subo = None):
+        if subo == None:
+            subo = 1
+        minimumo = min(supro, subo)
+        for i in range(max(minimumo // 2, 1), 0, -1):
+            if supro % i == 0 and subo % i == 0:
+                mem.supro = supro // i
+                mem.subo = subo // i
+                break
+        else:
+            raise(ValueError("Nevalida frakcio"))
+
+    def __str__(mem):
+        if mem.supro % mem.subo == 0:
+            return str(mem.supro // mem.subo)
+        if mem.supro > mem.subo:
+            return (str(mem.supro // mem.subo) + " " +
+                    str(Frakcio(mem.supro % mem.subo, mem.subo)))
+        if (mem.supro, mem.subo) in Frakcio.FRAKCIOJ:
+            return Frakcio.FRAKCIOJ[(mem.supro, mem.subo)]
+        return "{}/{}".format(mem.supro, mem.subo)
+
+    def adiciu(mem, alia):
+        return Frakcio(mem.supro * alia.subo +
+                       alia.supro * mem.subo,
+                       mem.subo * alia.subo)
+
+    def subtrahu(mem, alia):
+        return Frakcio(mem.supro * alia.subo -
+                       alia.supro * mem.subo,
+                       mem.subo * alia.subo)
+
+    def dividu(mem, alia):
+        return mem.multipliku(Frakcio(alia.subo, alia.supro))
+
+    def multipliku(mem, alia):
+        return Frakcio(mem.supro * alia.supro,
+                       mem.subo * alia.subo)
+
+    def __ge__(mem, alia):
+        return mem.supro * alia.subo >= alia.supro * mem.subo
+
+    def __lt__(mem, alia):
+        return mem.supro * alia.subo < alia.supro * mem.subo
+
 class Voĉdono:
     def __init__(mem, ordo):
-        mem.valoro = 1.0
+        mem.valoro = Frakcio(1)
         mem.ordo = ordo
 
 class Kandidato:
     def __init__(mem, nomo):
-        mem.poentoj = 0
+        mem.poentoj = Frakcio(0)
         mem.nomo = nomo
         mem.voĉdonoj = []
         mem.elektebla = True
 
     def aldonu_voĉdonon(mem, voĉdono):
         mem.voĉdonoj.append(voĉdono)
-        mem.poentoj += voĉdono.valoro
+        mem.poentoj = mem.poentoj.adiciu(voĉdono.valoro)
 
 def aldonu_voĉdonon(voĉdono):
     for elekto in voĉdono.ordo:
@@ -67,6 +130,7 @@ for voĉdono in ([ [ 0, 1, 2 ] ] * 9 +
     nombro_de_voĉdonoj += 1
 
 kvoto = (nombro_de_voĉdonoj + NOMBRO_DE_SEĜOJ) // (NOMBRO_DE_SEĜOJ + 1)
+kvoto_frakcio = Frakcio(kvoto)
 
 print("Kvoto = {}\n".format(kvoto))
 
@@ -82,18 +146,19 @@ while True:
     for kandidato in kandidatoj:
         if not kandidato.elektebla:
             continue
-        if kandidato.poentoj >= kvoto:
+        if kandidato.poentoj >= kvoto_frakcio:
             print("Elektiĝas: {}".format(kandidato.nomo))
             kandidato.elektebla = False
             elektitoj.append(kandidato)
-            frakcio = (kandidato.poentoj - kvoto) / kandidato.poentoj
+            frakcio = (kandidato.poentoj.subtrahu(kvoto_frakcio).
+                       dividu(kandidato.poentoj))
             
             for voĉdono in kandidato.voĉdonoj:
-                voĉdono.valoro *= frakcio
+                voĉdono.valoro = voĉdono.valoro.multipliku(frakcio)
                 aldonu_voĉdonon(voĉdono)
             break
     else:
-        malplej_da_poentoj = nombro_de_voĉdonoj
+        malplej_da_poentoj = Frakcio(nombro_de_voĉdonoj)
         malplej_bona_kandidato = None
 
         for kandidato in kandidatoj:
