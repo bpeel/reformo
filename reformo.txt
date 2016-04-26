@@ -13,21 +13,21 @@ Estas 659 elektodistriktoj.
 
 En ĉiu elektodistrikto ĉiu sufiĉe granda partio sendas po unu kandidaton por reprezenti tiun partion. La loĝantaro de ĉiu elektodistrikto voĉdonas por sia preferata kandidato kaj tiu kiu havas la plej multon da voĉoj gajnas la seĝon.
 
-Tiu sistemo ŝajnas tre simpla kaj taŭga. Ĉiu disktrikto havas unu reprezantanton kiu teorire reprezentas la problemojn de sia loĝantaro en la parlamento.
+Tiu sistemo ŝajnas tre simpla kaj taŭga. Ĉiu disktrikto havas unu reprezantanton kiu teorie tiu reprezentas plej bone la zorgojn de sia loĝantaro en la parlamento.
 
 Tamen ne vere funkcias tiel. Homoj ne vere voĉdonas por la individua homo sed por partio. Kaj ili malpli volas ke tiu homo reprezentu sian regionon kaj pli gravas la influon en la tutlandaj decidoj.
 
 [bildo de la rezulto de la 2015a balato]
 
-En 2015 Britio havis balaton. La maldekstra torto montras la proporcion de seĝoj de ĉiu partio en la parlamento. En tiu la bluaj konservemuloj havas tre klaran venkon kun pli ol dunono da la seĝoj. La dekstra torto montras la propocion de la veraj voĉoj. Tio montras ke se Britio ne tiom konsentas pri la rezulto kiel ŝajnas laŭ la seĝoj de la konservemuloj havas pli da reprezento ol ili meritas laŭ la voĉoj.
+En 2015 Britio havis balaton. La maldekstra torto montras la proporcion de seĝoj de ĉiu partio en la parlamento. En tiu la bluaj konservemuloj havas tre klaran venkon kun pli ol dunono da la seĝoj. La dekstra torto montras la propocion de la veraj voĉoj. Tio montras ke Britio ne tiom konsentas pri la rezulto kiel ŝajnas laŭ la seĝoj. La konservemuloj havas pli da reprezento ol ili meritas laŭ la voĉoj.
 
 Tio rezultas pro tio ke multaj voĉoj estas efektive ĵetitaj en la aktuala sistemo.
 
 [mapo kun montro de la regiono Haltemprice and Howden]
 
-Ekzemple, imagu se mi loĝus en tiu regiono. Tie, la konservemuloj ĉiam venkadas kaj la seĝo neniam ŝanĝis ekde la baloto en 1837. Tio estas nomata ‘sekura seĝo’ ĉar ĝi ne ŝanĝiĝos. Se mi estus subtenanto de la laborista partio en tiu regiono, apenaŭ indus voĉdoni kaj mia voĉo estus iusence ĵetita.
+Ekzemple, imagu se mi loĝus en tiu regiono. Tie, la konservemuloj ĉiam venkadas kaj la seĝo neniam ŝanĝiĝis ekde la baloto en 1837. Tio estas nomata ‘sekura seĝo’ ĉar ĝi ne ŝanĝiĝos. Se mi estus subtenanto de la laborista partio en tiu regiono, apenaŭ indus voĉdoni kaj mia voĉo estus iusence ĵetita.
 
-Eĉ pli, ekzemple se mi preferus la verdan partion en tiu regiono, eble mi tamen voĉdonus por la laborista partio, ĉar mi scias ke la verda partio havas neniom da ŝanco kaj la laboristoj eble estus mia dua prefero. Tio nomiĝas taktika voĉdono kaj tio okazas tre ofte en Britio. Anstataŭ voĉdoni por sia preferato partio, homoj devas voĉdoni por tiu kiu havas ŝancon venki. Tiel la malgrandaj partio malfacile kreskas ke la politiko povas nur malrapide ŝanĝiĝi.
+Eĉ pli, ekzemple se mi preferus la verdan partion en tiu regiono, eble mi tamen voĉdonus por la laborista partio, ĉar mi scias ke la verda partio havas neniom da ŝanco kaj la laboristoj eble estus la nuraj kiuj povus kontraŭi la konservemulojn. Tio nomiĝas taktika voĉdono kaj tio okazas tre ofte en Britio. Anstataŭ voĉdoni por sia preferato partio, homoj devas voĉdoni por tiu kiu havas ŝancon venki. Tiel la malgrandaj partio malfacile kreskas kaj la politiko povas nur malrapide ŝanĝiĝi.
 
 [emblemo de la socio por balota reformo]
 
@@ -39,7 +39,7 @@ La socio de balota reformo taksas ke fakte 59% da la seĝoj estas tiaj neŝanĝe
 
 Ili proponas alian balotan sistemon kiu nomiĝas STV, aŭ Sola Transdonebla Voĉdono.
 
-Laŭ tiu sistemo, oni pligrandigas la elektodistriktojn kaj anstataŭ elekti nur unu kandidaton de ĉiu diskrikto oni elektas eble po 3 aŭ 4. La reprezantantoj de ĉiu distrikto estas elektitaj laŭ ia sistemo de proporcia reprezentado.
+Laŭ tiu sistemo, oni pligrandigas la elektodistriktojn kaj anstataŭ elekti nur unu kandidaton de ĉiu distrikto oni elektas eble po 3 aŭ 4. La reprezantantoj de ĉiu distrikto estas elektitaj laŭ ia sistemo de proporcia reprezentado.
 
 Do, ni montru kiel ĝi funkcias per ekzemplo.
 
@@ -71,11 +71,11 @@ Nu en ĉi tiu sistemo la partio Slytherine venkas ĉar ĝi havas la plejmulton d
         Arthur Weasley de Gryffindor
         Minerva McGonagall de Gryffindor]
 
-Nun ni povas imagi la rezultojn laŭ la sistemo de STV. En ĉi tiu sistemo la elektdistroj estas trioble pli grandaj kaj la kandidatoj de la 2 najbaraj distriktoj aliĝas al la baloto.
+Nun ni povas imagi la rezultojn laŭ la sistemo de STV. En ĉi tiu sistemo la elektodistroj estas trioble pli grandaj kaj la kandidatoj de la 2 najbaraj distriktoj aliĝas al la baloto.
 
-Oni povas imagi ke kun la sistemo de FPTP tiuj 3 aliaj elektdistriktoj havis similan rezulton do efektive estus 3 reprezentantoj de Slytherine en la parlamento.
+Oni povas imagi ke kun la sistemo de FPTP tiuj 3 aliaj elektodistriktoj havus similan rezulton do efektive estus 3 reprezentantoj de Slytherine en la parlamento.
 
-En STV anstataŭ elekti nur unu kandidaton, la voĉdonatoj povas meti numeron apud ĉiu kandidato por ordigi ĉiun laŭ sia prefero.
+En STV anstataŭ elekti nur unu kandidaton, la voĉdonantoj povas meti numeron apud ĉiu kandidato por ordigi ĉiun laŭ sia prefero.
 
 [bildo de la komparoj de la balotpaperoj]
 
@@ -103,9 +103,9 @@ Ni devas elekti tri el tiuj kandidatoj por ĉi tiu regiono, sed anstataŭ elekti
 
 [ree al la antaŭa bildo]
 
-Do Voldemort jam havas sufiĉe da voĉoj por atingi la 25 bezonatajn do li tuj prenas unu seĝon.
+Do Voldemort jam havas sufiĉe da voĉoj por atingi la 36 bezonatajn do li tuj prenas unu seĝon.
 
-Tamen Voldemort bezonis nur 36 voĉojn kaj la ekstraj 18 estis tute superfluaj. Anstataŭ simple ĵeti tiujn superfluajn voĉojn ni transdonos tiujn voĉojn al la dua elekto de la voĉdonanto. Sed pro tio ke tiuj voĉoj jam gajnis unu seĝon, ni malaltigos la valoron de la transdonita voĉo. Do ni prenos la duan elekton de ĉiuj el la 54 voĉoj sed la valoro estos dividita je la sama proporcio de la superfluaj voĉoj.
+Tamen Voldemort bezonis nur 36 voĉojn kaj la ekstraj 18 estis tute superfluaj. Anstataŭ simple ĵeti tiujn superfluajn voĉojn ni transdonos ilin al la dua elekto de la voĉdonanto. Sed pro tio ke tiuj voĉoj jam gajnis unu seĝon, ni malaltigos la valoron de la transdonita voĉo. Do ni prenos la duan elekton de ĉiuj el la 54 voĉoj sed la valoro estos dividita je la sama proporcio de la superfluaj voĉoj.
 
 [ Valoro de ĉiu voĉo = nombro de superfluaj voĉoj   54 - 36
                        -------------------------- = ------- = ⅓
@@ -119,48 +119,65 @@ En ĉi tiu baloto, 9 el la homoj kiuj voĉdonis por Voldemort havis Malfoy kiel 
 
 Kaj la stato por la dua seĝo estas:
 
-[Lucius Malfoy 3 votes
- Bellatrix Lestrange 15 votes
+malfoy     : 3
+lestrange  : 15
+flitwick   : 18
+sybill     : 18
+gilderoy   : 4
+dumbledore : 30
+weasley    : 15
+mcgonagall : 5
 
- Flitwick 18 votes
- Sybill 18
- Gilderoy 4
+Nun neniu havas sufiĉe da voĉoj por atingi la kvoton. Do oni forigos tiun kiu havas la malplej kaj disdividos ties voĉojn al ilia sekva elekto. En ĉi tiu kazo la plej malalta estas Malfoy kaj tiuj kiuj voĉdonis por li preferis Bellatrix en la tria loko, ĉar ili kompreneble volas iun de Slytherine:
 
- Dumbledore 30 votes
- Arthur Weasley 15 votes
- Minerva McGonagall 5]
-
-Nun neniu havas sufiĉe da voĉoj por atingi la kvoton. Do oni forigos tiun kiu havas la malplej kaj disdividos ties voĉojn al ilia sekva elekto. En ĉi tiu kaze la plej malalta estas Malfoy kaj tiuj kiuj voĉdonis por li preferis Bellatrix en la tria loko:
-
-[Bellatrix Lestrange 18 votes
-
- Flitwick 18 votes
- Sybill 18
- Gilderoy 4
-
- Dumbledore 30 votes
- Arthur Weasley 15 votes
- Minerva McGonagall 5]
+lestrange  : 18
+flitwick   : 18
+sybill     : 18
+gilderoy   : 4
+dumbledore : 30
+weasley    : 15
+mcgonagall : 5
 
 Simile okazas por Gilderoy kies voĉdonantoj preferis Flitwick en la dua loko.
 
-[Bellatrix Lestrange 18 votes
-
- Flitwick 22 votes
- Sybill 18
-
- Dumbledore 30 votes
- Arthur Weasley 15 votes
- Minerva McGonagall 5]
+lestrange  : 18
+flitwick   : 22
+sybill     : 18
+dumbledore : 30
+weasley    : 15
+mcgonagall : 5
 
 Kaj denove por McGonagall, kies voĉoj iras al Dumbledore:
 
-[Bellatrix Lestrange 18 votes
+lestrange  : 18
+flitwick   : 22
+sybill     : 18
+dumbledore : 35
+weasley    : 15
 
- Flitwick 22 votes
- Sybill 18
+Nun estas la vico de Weasley kies voĉdonantoj preferis Dumbledore ol iun de alia partio:
 
- Dumbledore 35 votes
- Arthur Weasley 15 votes]
+lestrange  : 18
+flitwick   : 22
+sybill     : 18
+dumbledore : 50
 
+Finfine Dumbledore havas sufiĉe da voĉo por atingi la kvoton. 14 el tiuj voĉoj estis superfluaj, do ni transdonos la voĉojn al la sekva preferata kandidato de la voĉdonoj de Dumbledore kiu estas Flitwick, ĉar tiuj kiuj volis Gryffindor certe preferus ion ajn ol havi iun de Slytherine. 28% da liaj voĉdonoj estis superfluoj, do ni donos 28% el 50 al flitwick, do li gajnas pliajn 14 kaj la stato estas:
 
+lestrange  : 18
+flitwick   : 36
+sybill     : 18
+
+Nun flitwick atingas la kvoton kaj iĝas la tria kaj lasta parlamentano de tiu regiono.
+
+[tortografiko de la proporcio de voĉdonoj kaj finaj rezultoj]
+
+Nun ni havas unu kandidaton el ĉiu partio. Tio bone spegulas la fakton ke preskaŭ triono da la voĉdonoj iris al ĉiu el tri partioj.
+
+La sistemo proponita de la socio de balota reformo havas grandan avantaĝon kontraŭ pura sistemo de proporcia reprezentado kaj tio estas ke oni ankoraŭ voĉdonas por loka kandidato kaj tiel oni ankoraŭ povas havi iun al kiu oni sentas ligon. Ĝi ankaŭ bonas por sendependaj kandidatoj kiuj estas ŝatataj de nur unu regiono.
+
+La avantaĝoj kontraŭ la aktuala sistemo de FPTP estas ke ĝi tute forigas la neceson fari taktikan voĉdonon kaj oni povas voĉdoni por tiu kiun oni vere volas sen riski ke onia voĉdono estos ĵetita. Ĝi ankaŭ enkondukas ian proporcian reprezentadon sen tute renversi la aktualan sistemon kie ni havas lokajn kandidatojn.
+
+La malavantaĝoj povas esti ke ĝi estas iom pli komplika por kompreni. Tamen mi pensas ke oni ne vere devas kompreni la kalkuladon de la voĉdonoj por voĉdoni ĉar la nura afero kiun oni devas fari estas meti la kandidatojn laŭ la ordo de onia prefero kaj tio estas facile komprenebla. Oni povus argumenti ke la aktuala sistemo fakte estas tre komplika por la voĉdonantoj se ili volas voĉdone ĝuste ĉar ili devas konsideri ne nur kiun ili plej ŝatas sed ankaŭ kiu havas ŝancon venki en ilia elektodistrikto.
+
+Do se vi ŝatas la ideon, nepre sekvu la ligilon sube al la socio de balota reformo. Dankon pro via spektado.
