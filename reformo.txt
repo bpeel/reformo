@@ -57,11 +57,11 @@ Nu, la plej grava temo en la epoko de ĉi tiu fikcia balato estas ĉu oni devus 
 
 Do, jen la rezulto de ĉi tiu baloto laŭ la aktuala sistemo de FPTP.
 
-[bildo: Voldemorto 37 votes
-        Flitwick 27 votes
-        Dumbledore 36 votes]
+[bildo: Voldemorto 54 votes
+        Flitwick 40 votes
+        Dumbledore 50 votes]
 
-Nu en ĉi tiu sistemo la partio Slytherine venkas ĉar ĝi havas la plejmulton da la voĉoj. De tiu regiono nun en la parlemento 100% da la reprezento subtenas la malliberigon de mugloj kvankam fakte 63% voĉdonis por partioj kiuj estas kontraŭ tio.
+Nu en ĉi tiu sistemo la partio Slytherine venkas ĉar ĝi havas la plejmulton da la voĉoj. De tiu regiono nun en la parlemento 100% da la reprezento subtenas la malliberigon de mugloj kvankam fakte 69% voĉdonis por partioj kiuj estas kontraŭ tio.
 
 [bildo lastaj kandidatoj +
         Lucius Malfoy de Slytherine
@@ -83,48 +83,84 @@ Do unue ni konsideros nur la rezultojn de la kandidatoj kiuj ricevis 1 apud sia 
 
 La rezultoj estas jene. La proporcio por ĉiu partio estas same kaj Slytherine ankoraŭ havas la plejmulton da voĉdonoj.
 
-[Voldemorto 37 votes
+[Voldemorto 54 votes
  Lucius Malfoy 0 votes
  Bellatrix Lestrange 0 votes
 
- Flitwick 11 votes
- Sybill 11
- Gilderoy 5
+ Flitwick 18 votes
+ Sybill 18
+ Gilderoy 4
 
- Dumbledore 20 votes
- Arthur Weasley 10 votes
- Minerva McGonagall 6]
+ Dumbledore 30 votes
+ Arthur Weasley 15 votes
+ Minerva McGonagall 5]
 
-Ni devas elekti tri el tiuj kandidatoj por ĉi tiu regiono, sed anstataŭ elekti tiujn kiuj havas la plejmulton da voĉoj ni elektas tiujn kiuj havas almenaŭ iun specifan kvanton de voĉoj. Ni kalkulas tiun kvanton jene:
+Ni devas elekti tri el tiuj kandidatoj por ĉi tiu regiono, sed anstataŭ elekti tiujn kiuj havas la plejmulton da voĉoj ni elektas tiujn kiuj havas almenaŭ iun specifan kvoton de voĉoj. Ni kalkulas tiun kvoton jene:
 
-[   Nombro de voĉoj        100
- --------------------  =  ----- = 25
+[   Nombro de voĉoj        144
+ --------------------  =  ----- = 36
  Nombro de seĝoj + 1      3 + 1      ]
 
 [ree al la antaŭa bildo]
 
 Do Voldemort jam havas sufiĉe da voĉoj por atingi la 25 bezonatajn do li tuj prenas unu seĝon.
 
-Tamen Voldemort bezonis nur 25 voĉojn kaj la ekstra 12 estis tute superfluaj. Anstataŭ simple ĵeti tiujn superfluajn voĉojn ni transdonos tiujn voĉojn al la dua elekto de la voĉdonanto. Sed pro tio ke tiuj voĉoj jam gajnis unu seĝon, ni malaltigos la valoron de la transdonita voĉo. Do ni prenos la duan elekton de ĉiuj el la 40 voĉoj sed la valoro estos dividita je la sama proporcio de la superfluaj voĉoj.
+Tamen Voldemort bezonis nur 36 voĉojn kaj la ekstraj 18 estis tute superfluaj. Anstataŭ simple ĵeti tiujn superfluajn voĉojn ni transdonos tiujn voĉojn al la dua elekto de la voĉdonanto. Sed pro tio ke tiuj voĉoj jam gajnis unu seĝon, ni malaltigos la valoron de la transdonita voĉo. Do ni prenos la duan elekton de ĉiuj el la 54 voĉoj sed la valoro estos dividita je la sama proporcio de la superfluaj voĉoj.
 
-[ Valoro de ĉiu voĉo = nombro de superfluaj voĉoj   15
-                       -------------------------- = -- = 0.375
-                           nombro de voĉoj          40         ]
+[ Valoro de ĉiu voĉo = nombro de superfluaj voĉoj   54 - 36
+                       -------------------------- = ------- = ⅓
+                           nombro de voĉoj            54            ]
 
 
-En ĉi tiu baloto, ĉiu kiu voĉdonis por Voldemort havis Lestrange kiel duan elekton. Do ŝi nun havas:
+En ĉi tiu baloto, 9 el la homoj kiuj voĉdonis por Voldemort havis Malfoy kiel duan elekton kaj la aliaj 45 havis Bellatrix.
 
-[ 40 * 0.375 = 15 ] voĉojn
+[ Bellatrix gajnas: 45 * ⅓ = 15 voĉojn
+  Malfoy gajnas:    9 * ⅓ = 3 voĉojn
 
 Kaj la stato por la dua seĝo estas:
 
-[Lucius Malfoy 0 votes
+[Lucius Malfoy 3 votes
  Bellatrix Lestrange 15 votes
 
- Flitwick 10 votes
- Sybill 10
- Gilderoy 5
+ Flitwick 18 votes
+ Sybill 18
+ Gilderoy 4
 
- Dumbledore 20 votes
- Arthur Weasley 10 votes
+ Dumbledore 30 votes
+ Arthur Weasley 15 votes
  Minerva McGonagall 5]
+
+Nun neniu havas sufiĉe da voĉoj por atingi la kvoton. Do oni forigos tiun kiu havas la malplej kaj disdividos ties voĉojn al ilia sekva elekto. En ĉi tiu kaze la plej malalta estas Malfoy kaj tiuj kiuj voĉdonis por li preferis Bellatrix en la tria loko:
+
+[Bellatrix Lestrange 18 votes
+
+ Flitwick 18 votes
+ Sybill 18
+ Gilderoy 4
+
+ Dumbledore 30 votes
+ Arthur Weasley 15 votes
+ Minerva McGonagall 5]
+
+Simile okazas por Gilderoy kies voĉdonantoj preferis Flitwick en la dua loko.
+
+[Bellatrix Lestrange 18 votes
+
+ Flitwick 22 votes
+ Sybill 18
+
+ Dumbledore 30 votes
+ Arthur Weasley 15 votes
+ Minerva McGonagall 5]
+
+Kaj denove por McGonagall, kies voĉoj iras al Dumbledore:
+
+[Bellatrix Lestrange 18 votes
+
+ Flitwick 22 votes
+ Sybill 18
+
+ Dumbledore 35 votes
+ Arthur Weasley 15 votes]
+
+
