@@ -17,8 +17,13 @@ num=0
 for layer in "${layers[@]}"; do
     png=`printf "layer-%04i.png" $num`
 
-    inkscape --export-id-only --export-area-page --export-id="$layer" \
-        --export-png="$png" "$svg_file"
+    args=(--export-id-only --export-area-page --export-id="$layer" \
+                           --export-png="$png" "$svg_file")
+    if test $num -eq 0; then
+        args=("${args[@]}" --export-background="#000" \
+                           --export-background-opacity=1 )
+    fi
+    inkscape "${args[@]}"
 
     num=$((num+1))
 done
