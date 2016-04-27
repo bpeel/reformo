@@ -214,7 +214,7 @@ main(int argc, const char **argv)
                                        SDL_WINDOWPOS_UNDEFINED,
                                        SDL_WINDOWPOS_UNDEFINED,
                                        WIDTH, HEIGHT,
-                                       0 /* flags */);
+                                       SDL_WINDOW_RESIZABLE);
         if (data.window == NULL) {
                 fprintf(stderr,
                         "Failed to create SDL window: %s",
