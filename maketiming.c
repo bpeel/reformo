@@ -136,10 +136,18 @@ handle_key_down(struct data *data,
         switch (event->keysym.sym) {
         case SDLK_PAGEDOWN:
         case SDLK_SPACE:
+        case SDLK_RIGHT:
+        case SDLK_DOWN:
                 set_image(data, data->current_image + 1);
                 break;
+        case SDLK_UP:
+        case SDLK_LEFT:
         case SDLK_PAGEUP:
                 set_image(data, data->current_image - 1);
+                break;
+        case SDLK_ESCAPE:
+        case SDLK_q:
+                data->quit = true;
                 break;
         }
 }
