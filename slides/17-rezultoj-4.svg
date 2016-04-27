@@ -172,10 +172,10 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.38385417"
-     inkscape:cx="1026.2792"
-     inkscape:cy="661.52385"
+     inkscape:cx="960"
+     inkscape:cy="547.08277"
      inkscape:document-units="px"
-     inkscape:current-layer="layer11"
+     inkscape:current-layer="layer16"
      showgrid="false"
      units="px"
      inkscape:window-width="1366"
@@ -1088,6 +1088,142 @@
        height="70"
        width="1500"
        id="rect7558"
+       style="display:inline;fill:#ff0000;fill-opacity:1;stroke:#ffffff;stroke-width:9;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.78600025;stroke-opacity:1" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer12"
+     inkscape:label="Calque 11"
+     style="display:inline">
+    <rect
+       style="display:inline;fill:#00ff00;fill-opacity:1;stroke:#ffffff;stroke-width:9;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.78600025;stroke-opacity:1"
+       id="rect7563"
+       width="420"
+       height="70"
+       x="1264.5"
+       y="728.08032"
+       rx="10.905846"
+       ry="4.8317184" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:50px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1474.085"
+       y="855.35144"
+       id="text7566"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7568"
+         x="1474.085"
+         y="855.35144">14 superfluaj</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer13"
+     inkscape:label="Calque 12"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:50px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1473.9507"
+       y="910.66486"
+       id="text7570"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7572"
+         x="1473.9507"
+         y="910.66486">14÷50 = 7/25</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer14"
+     inkscape:label="Calque 13"
+     style="display:inline">
+    <text
+       sodipodi:linespacing="125%"
+       id="text7578"
+       y="968.66492"
+       x="1479.9507"
+       style="font-style:normal;font-weight:normal;font-size:50px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="968.66492"
+         x="1479.9507"
+         id="tspan7580"
+         sodipodi:role="line">50 × 7/25 = 14</tspan><tspan
+         y="1031.1649"
+         x="1479.9507"
+         sodipodi:role="line"
+         id="tspan7584">voĉoj al Flitwick</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer15"
+     inkscape:label="Calque 14"
+     style="display:inline">
+    <rect
+       ry="4.8317184"
+       rx="10.905846"
+       y="37.525726"
+       x="844.5"
+       height="70"
+       width="420"
+       id="rect7587"
+       style="display:inline;fill:#00ff00;fill-opacity:1;stroke:#ffffff;stroke-width:9;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.78600025;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:62.5px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1275.0737"
+       y="101.27658"
+       id="text7597"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7599"
+         x="1275.0737"
+         y="101.27658">36</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer16"
+     inkscape:label="Calque 15"
+     style="display:inline">
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:20, 10;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect7620"
+       width="1859.3638"
+       height="385.20261"
+       x="-20.12368"
+       y="705.21808"
+       rx="10.9058"
+       ry="4.8317199" />
+    <path
+       transform="translate(0,27.637839)"
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path7622"
+       d="m 183.80311,-9.0802153 0,1033.1359153 1587.44659,0"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:20, 10;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect7636"
+       width="456.84662"
+       height="165.79112"
+       x="814.21857"
+       y="-6.8528652"
+       rx="10.9058"
+       ry="4.8317199" />
+    <path
+       transform="translate(0,27.637839)"
+       inkscape:connector-curvature="0"
+       id="path7629"
+       d="m 1265,-17.223622 0,1034.632022"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#00ff00;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:20, 10;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       ry="4.8317184"
+       rx="10.905846"
+       y="37.525726"
+       x="184.55771"
+       height="70"
+       width="1080"
+       id="rect7638"
        style="display:inline;fill:#ff0000;fill-opacity:1;stroke:#ffffff;stroke-width:9;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.78600025;stroke-opacity:1" />
   </g>
 </svg>
