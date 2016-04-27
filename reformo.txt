@@ -13,9 +13,9 @@ Estas 659 elektodistriktoj.
 
 En ĉiu elektodistrikto ĉiu sufiĉe granda partio sendas po unu kandidaton por reprezenti tiun partion. La loĝantaro de ĉiu elektodistrikto voĉdonas por sia preferata kandidato kaj tiu kiu havas la plej multon da voĉoj gajnas la seĝon.
 
-Tiu sistemo ŝajnas tre simpla kaj taŭga. Ĉiu disktrikto havas unu reprezantanton kiu teorie tiu reprezentas plej bone la zorgojn de sia loĝantaro en la parlamento.
+Tiu sistemo ŝajnas tre simpla kaj taŭga. Ĉiu disktrikto havas unu reprezantanton kiu teorie reprezentas plej bone la zorgojn de sia loĝantaro en la parlamento.
 
-Tamen ne vere funkcias tiel. Homoj ne vere voĉdonas por la individua homo sed por partio. Kaj ili malpli volas ke tiu homo reprezentu sian regionon kaj pli gravas la influon en la tutlandaj decidoj.
+Tamen ne vere funkcias tiel. Homoj ne vere voĉdonas por la individua homo sed por partio eĉ nerekte por la ĉefo de tiu partio. Kaj ili malpli volas ke tiu homo reprezentu sian regionon kaj pli gravas la influo en la tutlandaj decidoj.
 
 [bildo de la rezulto de la 2015a balato]
 
@@ -25,9 +25,9 @@ Tio rezultas pro tio ke multaj voĉoj estas efektive ĵetitaj en la aktuala sist
 
 [mapo kun montro de la regiono Haltemprice and Howden]
 
-Ekzemple, imagu se mi loĝus en tiu regiono. Tie, la konservemuloj ĉiam venkadas kaj la seĝo neniam ŝanĝiĝis ekde la baloto en 1837. Tio estas nomata ‘sekura seĝo’ ĉar ĝi ne ŝanĝiĝos. Se mi estus subtenanto de la laborista partio en tiu regiono, apenaŭ indus voĉdoni kaj mia voĉo estus iusence ĵetita.
+Ekzemple, imagu se mi loĝus en ĉi tiu regiono, Haltemprice and Howden. Tie, la konservemuloj ĉiam venkadas kaj la seĝo neniam ŝanĝiĝis ekde la baloto en 1837. Tio estas nomata ‘sekura seĝo’ ĉar ĝi ne ŝanĝiĝos. Se mi estus subtenanto de la laborista partio en tiu regiono, apenaŭ indus voĉdoni kaj mia voĉo estus iusence ĵetita.
 
-Eĉ pli, ekzemple se mi preferus la verdan partion en tiu regiono, eble mi tamen voĉdonus por la laborista partio, ĉar mi scias ke la verda partio havas neniom da ŝanco kaj la laboristoj eble estus la nuraj kiuj povus kontraŭi la konservemulojn. Tio nomiĝas taktika voĉdono kaj tio okazas tre ofte en Britio. Anstataŭ voĉdoni por sia preferato partio, homoj devas voĉdoni por tiu kiu havas ŝancon venki. Tiel la malgrandaj partio malfacile kreskas kaj la politiko povas nur malrapide ŝanĝiĝi.
+Eĉ pli, ekzemple se mi preferus la verdan partion en tiu regiono, eble mi tamen voĉdonus por la laborista partio, ĉar mi scias ke la verda partio havas neniom da ŝanco kaj la laboristoj eble estus la nuraj kiuj povus kontraŭi la konservemulojn. Tio nomiĝas taktika voĉdono kaj tio okazas tre ofte en Britio. Anstataŭ voĉdoni por sia preferato partio, homoj devas voĉdoni por tiu kiu havas ŝancon venki. Tiel la malgrandaj partioj malfacile kreskas kaj la politiko povas nur malrapide ŝanĝiĝi.
 
 [emblemo de la socio por balota reformo]
 
@@ -41,11 +41,11 @@ Ili proponas alian balotan sistemon kiu nomiĝas STV, aŭ Unuopa Transdonebla Vo
 
 Laŭ tiu sistemo, oni pligrandigas la elektodistriktojn kaj anstataŭ elekti nur unu kandidaton de ĉiu distrikto oni elektas eble po 3 aŭ 4. La reprezantantoj de ĉiu distrikto estas elektitaj laŭ ia sistemo de proporcia reprezentado.
 
-Do, ni montru kiel ĝi funkcias per ekzemplo.
+Do, ni vidu kiel ĝi funkcias per ekzemplo.
 
-Unue ke ni faras balaton per la aktuala sistemo por unu elektdistrikto.
+Unue ni faros balaton per la aktuala sistemo por unu elektodistrikto.
 
-Estas la jenaj tri kandidatoj:
+Do, en la distrikto estas la jenaj tri kandidatoj:
 
 [bildo de la kandidatoj]
 
@@ -53,7 +53,7 @@ Albus Dumbledore de la partio Gryffindor
 Filius Flitwick de Ravenclaw
 kaj Voldemort de Slytherine
 
-Nu, la plej grava temo en la epoko de ĉi tiu fikcia balato estas ĉu oni devus malliberigi kaj torturi muglojn. La partio Slytherine subtenas la malliberigon de mugloj sed la aliaj du partioj ne.
+Nu, la plej grava temo en la epoko de ĉi tiu fikcia balato estas ĉu oni devus malliberigi kaj torturi muglojn. La partio Slytherine subtenas la torturon de mugloj sed la aliaj du partioj ne.
 
 [bildo: mortigu aŭ ne]
 
@@ -99,7 +99,9 @@ La rezultoj estas jene. La proporcio por ĉiu partio estas same kaj Slytherine a
  Arthur Weasley 15 votes
  Minerva McGonagall 5]
 
-Ni devas elekti tri el tiuj kandidatoj por ĉi tiu regiono, sed anstataŭ elekti tiujn kiuj havas la plejmulton da voĉoj ni elektas tiujn kiuj havas almenaŭ iun specifan kvoton de voĉoj. Ni kalkulas tiun kvoton jene:
+Ni devas elekti tri el tiuj kandidatoj por ĉi tiu regiono, sed anstataŭ elekti tiujn kiuj havas la plejmulton da voĉoj ni elektas tiujn kiuj havas almenaŭ iun specifan kvoton de voĉoj.
+
+Do por decidi kio estas tiu kvoto, ni faros la jenan kalkulon:
 
 [   Nombro de voĉoj        144
  --------------------  =  ----- = 36
@@ -174,6 +176,14 @@ sybill     : 18
 
 Nun flitwick atingas la kvoton kaj iĝas la tria kaj lasta parlamentano de tiu regiono.
 
+[bildoj de la venkintoj]
+
+Do la tri venkintoj estas:
+
+Voldemort de Slytherine
+Dumbledore de Gryffindor
+kaj Flitwick de Ravenclaw
+
 [tortografiko de la proporcio de voĉdonoj kaj finaj rezultoj]
 
 Nun ni havas unu kandidaton el ĉiu partio. Tio bone spegulas la fakton ke preskaŭ triono da la voĉdonoj iris al ĉiu el tri partioj.
@@ -182,6 +192,6 @@ La sistemo proponita de la socio de balota reformo havas grandan avantaĝon kont
 
 La avantaĝoj kontraŭ la aktuala sistemo de FPTP estas ke ĝi tute forigas la neceson fari taktikan voĉdonon kaj oni povas voĉdoni por tiu kiun oni vere volas sen riski ke onia voĉdono estos ĵetita. Ĝi ankaŭ enkondukas ian proporcian reprezentadon sen tute renversi la aktualan sistemon kie ni havas lokajn kandidatojn.
 
-La malavantaĝoj povas esti ke ĝi estas iom pli komplika por kompreni. Tamen mi pensas ke oni ne vere devas kompreni la kalkuladon de la voĉdonoj por voĉdoni ĉar la nura afero kiun oni devas fari estas meti la kandidatojn laŭ la ordo de onia prefero kaj tio estas facile komprenebla. Oni povus argumenti ke la aktuala sistemo fakte estas tre komplika por la voĉdonantoj se ili volas voĉdone ĝuste ĉar ili devas konsideri ne nur kiun ili plej ŝatas sed ankaŭ kiu havas ŝancon venki en ilia elektodistrikto.
+La malavantaĝoj povas esti ke ĝi estas iom pli komplika por kompreni. Tamen mi pensas ke oni ne vere devas kompreni la kalkuladon de la voĉdonoj por voĉdoni ĉar la nura afero kiun oni devas fari estas meti la kandidatojn laŭ la ordo de onia prefero kaj tio estas facile komprenebla. Oni povus argumenti ke la aktuala sistemo mem fakte estas tre komplika por la voĉdonantoj se ili volas voĉdoni ĝuste ĉar ili devas konsideri ne nur kiun ili plej ŝatas sed ankaŭ kiu havas ŝancon venki en ilia elektodistrikto.
 
 Do se vi ŝatas la ideon, nepre sekvu la ligilon sube al la socio de balota reformo. Dankon pro via spektado.
