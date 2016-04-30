@@ -47,5 +47,4 @@
 524148 slides-png/slide-0046.png
 531804 slides-png/slide-0047.png
 546371 slides-png/slide-0048.png
-633381 slides-png/slide-0049.png
-641765 slides-png/slide-0049.png
+633381 slides-png/slide-0048.png
