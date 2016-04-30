@@ -1,0 +1,854 @@
+﻿1
+00:00:00,099 --> 00:00:00,602
+Hello!
+
+2
+00:00:00,804 --> 00:00:01,811
+My name is Neil
+
+3
+00:00:01,912 --> 00:00:03,017
+and I want to talk with you
+
+4
+00:00:03,117 --> 00:00:04,928
+about electoral reform in the UK.
+
+5
+00:00:05,028 --> 00:00:06,841
+So, what is that?
+
+6
+00:00:06,942 --> 00:00:09,155
+Well I will start by speaking
+
+7
+00:00:09,256 --> 00:00:11,065
+about the current system in the UK
+
+8
+00:00:11,166 --> 00:00:13,178
+which is called FPTP.
+
+9
+00:00:13,279 --> 00:00:16,497
+In the UK there are 659 constituencies.
+
+10
+00:00:16,699 --> 00:00:21,526
+Each constituency equates to
+one seat each in parliament.
+
+11
+00:00:21,626 --> 00:00:24,442
+In every constituency each party that
+is big enough
+
+12
+00:00:24,543 --> 00:00:28,567
+sends one candidate each to
+represent that party.
+
+13
+00:00:28,668 --> 00:00:33,797
+The members of the constituency
+vote for their favourite candidate
+
+14
+00:00:33,898 --> 00:00:37,816
+and the one that has the most
+votes wins the seat.
+
+15
+00:00:37,917 --> 00:00:41,738
+That system seems very simple and suitable.
+
+16
+00:00:41,839 --> 00:00:44,954
+Each constituency has one representative
+
+17
+00:00:45,054 --> 00:00:48,170
+who in theory best represents the issues
+
+18
+00:00:48,271 --> 00:00:50,383
+of its members in parliament.
+
+19
+00:00:50,483 --> 00:00:52,595
+However it doesn't really work like that.
+
+20
+00:00:52,695 --> 00:00:56,014
+People don't really vote for an individual person
+
+21
+00:00:56,114 --> 00:00:59,531
+but for a party and even, indirectly,
+
+22
+00:00:59,632 --> 00:01:01,643
+for the leader of that party.
+
+23
+00:01:01,744 --> 00:01:06,070
+And rather than wanting that person to
+represent their region
+
+24
+00:01:06,170 --> 00:01:10,096
+the influence in the national
+decisions are more important.
+
+25
+00:01:10,298 --> 00:01:12,844
+In 2015 the UK had an election.
+
+26
+00:01:12,944 --> 00:01:16,263
+The left pie chart shows the proportion of seats
+
+27
+00:01:16,364 --> 00:01:18,677
+of every party in parliament.
+
+28
+00:01:18,778 --> 00:01:23,607
+There the blue conservatives have
+a very clear victory
+
+29
+00:01:23,708 --> 00:01:25,921
+with more than half of the seats.
+
+30
+00:01:26,122 --> 00:01:30,444
+The pie chart on the right shows
+the proportion of the actual votes.
+
+31
+00:01:30,544 --> 00:01:33,461
+That shows that the UK isn't so unilateral
+
+32
+00:01:33,562 --> 00:01:35,070
+as it seems according to the seats.
+
+33
+00:01:35,171 --> 00:01:38,392
+The conservatives have more representation
+
+34
+00:01:38,492 --> 00:01:40,405
+than they deserve according to the votes.
+
+35
+00:01:40,607 --> 00:01:43,924
+That is a result of the fact that many votes
+are effectively thrown away
+
+36
+00:01:44,024 --> 00:01:45,534
+in the current system.
+
+37
+00:01:45,634 --> 00:01:48,551
+For example, imagine I lived in this region,
+
+38
+00:01:48,741 --> 00:01:49,848
+Haltemprice and Howden.
+
+39
+00:01:49,949 --> 00:01:53,268
+There, the conservatives always win
+
+40
+00:01:53,368 --> 00:01:58,600
+and the seat hasn't changed
+since the election in 1836.
+
+41
+00:01:58,802 --> 00:02:02,321
+That is called a ‘safe seat’ because it never changes.
+
+42
+00:02:02,422 --> 00:02:05,944
+If I was a supporter of the
+Labour party in that region,
+
+43
+00:02:06,045 --> 00:02:07,452
+it would hardly be worth voting
+
+44
+00:02:07,552 --> 00:02:10,367
+and in a way my vote would be thrown away.
+
+45
+00:02:10,568 --> 00:02:14,590
+Even more so, for example if I preferred
+the Green party in that region,
+
+46
+00:02:14,691 --> 00:02:17,307
+maybe I would vote for the Labour party anyway,
+
+47
+00:02:17,407 --> 00:02:20,825
+because I know that the Green party
+has no chance.
+
+48
+00:02:21,035 --> 00:02:25,560
+Maybe Labour would be the only ones
+who could stand against the Conservatives.
+
+49
+00:02:25,661 --> 00:02:28,377
+That is called a tactical vote
+
+50
+00:02:28,477 --> 00:02:30,893
+and that happens a lot in the UK.
+
+51
+00:02:31,096 --> 00:02:33,208
+Instead of voting for their favourite party,
+
+52
+00:02:33,309 --> 00:02:36,528
+people have to vote for the one
+who has a chance of winning.
+
+53
+00:02:36,629 --> 00:02:40,951
+In that way the small parties don't grow easily
+
+54
+00:02:41,152 --> 00:02:43,968
+and the politics can only change very slowly.
+
+55
+00:02:44,068 --> 00:02:46,984
+So that's why the Electoral Reform Society exists.
+
+56
+00:02:47,410 --> 00:02:51,533
+That society estimates that in fact 59% of the seats
+
+57
+00:02:51,633 --> 00:02:54,046
+are that kind that can't change.
+
+58
+00:02:54,147 --> 00:02:57,970
+They suggest another voting system called STV,
+
+59
+00:02:58,174 --> 00:03:00,690
+or Single Transferable Vote.
+
+60
+00:03:00,791 --> 00:03:01,998
+In that system,
+
+61
+00:03:02,099 --> 00:03:04,013
+the constituencies are made bigger
+
+62
+00:03:04,113 --> 00:03:07,734
+and instead of only electing
+one candidate from each constituency
+
+63
+00:03:07,834 --> 00:03:10,350
+you elect maybe 3 or 4.
+
+64
+00:03:10,450 --> 00:03:13,869
+The representatives of each constituency are elected
+
+65
+00:03:13,970 --> 00:03:16,988
+according to some kind of system
+of proportional representation.
+
+66
+00:03:17,089 --> 00:03:19,199
+So, we'll see how it works by an example.
+
+67
+00:03:19,300 --> 00:03:22,518
+Firt we'll do the election with the current system
+
+68
+00:03:22,619 --> 00:03:23,925
+for one constituency.
+
+69
+00:03:24,025 --> 00:03:27,143
+So, in the constituency
+there are these three candidates:
+
+70
+00:03:27,244 --> 00:03:30,361
+Albus Dumbledore from the Gryffindor party
+
+71
+00:03:30,462 --> 00:03:33,282
+Filius Flitwick from Ravenclaw
+
+72
+00:03:33,383 --> 00:03:35,998
+and Lord Voldemort from Slytherine.
+
+73
+00:03:36,098 --> 00:03:40,122
+So, the most important issue going on
+during this fictional election
+
+74
+00:03:40,223 --> 00:03:43,943
+is should we imprison and torture muggles,
+
+75
+00:03:44,044 --> 00:03:47,365
+or would it be better to make friends with them.
+
+76
+00:03:47,465 --> 00:03:50,382
+The Slytherine party supports torture
+
+77
+00:03:50,482 --> 00:03:52,697
+but the other two parties want to make friends.
+
+78
+00:03:52,797 --> 00:03:55,010
+So, here's the result of this ballot
+
+79
+00:03:55,111 --> 00:03:57,924
+according to the current system of FPTP.
+
+80
+00:03:58,025 --> 00:03:59,433
+Dumbledore has 50 votes,
+
+81
+00:03:59,533 --> 00:04:01,141
+Flitwick has 40
+
+82
+00:04:01,241 --> 00:04:03,655
+and Voldemort has 54.
+
+83
+00:04:03,856 --> 00:04:06,672
+So in this system the Slytherine party wins
+
+84
+00:04:06,772 --> 00:04:08,986
+because it has the most votes.
+
+85
+00:04:09,191 --> 00:04:13,920
+Now, from that region, in parliament,
+100% of the representation
+
+86
+00:04:14,024 --> 00:04:16,137
+supports imprisoning muggles
+
+87
+00:04:16,238 --> 00:04:20,666
+even though actually 63% voted for parties
+
+88
+00:04:20,766 --> 00:04:22,878
+who were against that.
+
+89
+00:04:22,978 --> 00:04:26,901
+You could imagine that a similar thing
+could happen in every other constituency.
+
+90
+00:04:27,002 --> 00:04:30,720
+In the end the UK could become 100% Slytherin
+
+91
+00:04:30,821 --> 00:04:33,939
+and we'd immediately start torturing the poor muggles,
+
+92
+00:04:34,144 --> 00:04:39,265
+even though according to the amount of votes
+support of that would be in the minority.
+
+93
+00:04:39,466 --> 00:04:42,783
+Now we can imagine the results
+according to the STV system.
+
+94
+00:04:42,884 --> 00:04:47,009
+In this system the constituencies are three times as big
+
+95
+00:04:47,110 --> 00:04:52,037
+and the candidates from the 2 neighbouring
+constituencies join the ballot.
+
+96
+00:04:52,241 --> 00:04:55,660
+The ballot papers in STV are different.
+
+97
+00:04:55,761 --> 00:05:00,891
+In FPTP the voter just puts one cross
+
+98
+00:05:00,993 --> 00:05:02,905
+on the candidate that they want.
+
+99
+00:05:03,006 --> 00:05:07,233
+In STV you can put a number next to every candidate
+
+100
+00:05:07,441 --> 00:05:09,855
+to order them according to preference.
+
+101
+00:05:09,956 --> 00:05:13,276
+So first we'll only consider
+the results for the candidates
+
+102
+00:05:13,583 --> 00:05:15,494
+who received a 1 next to their name,
+
+103
+00:05:15,595 --> 00:05:19,823
+so that is those who are the
+favourite candidates.
+
+104
+00:05:19,924 --> 00:05:21,635
+The results are as follows.
+
+105
+00:05:21,736 --> 00:05:24,652
+The proportion for each party is the same.
+
+106
+00:05:24,854 --> 00:05:27,973
+Voldemort still has the most votes
+
+107
+00:05:28,073 --> 00:05:31,595
+because everyone in Slytherine was afraid to vote
+for another candidate.
+
+108
+00:05:31,796 --> 00:05:36,827
+We have to pick three of those
+candidates for this region,
+
+109
+00:05:36,928 --> 00:05:40,752
+but instead of picking the ones with
+the most votes
+
+110
+00:05:40,955 --> 00:05:45,986
+we pick the ones who have at least
+a certain quota of the votes.
+
+111
+00:05:46,087 --> 00:05:49,104
+So to decide what is the quota,
+
+112
+00:05:49,205 --> 00:05:51,218
+we will do the following calculation:
+
+113
+00:05:51,318 --> 00:05:56,043
+The number of votes divided by
+the number of seats plus one.
+
+114
+00:05:56,143 --> 00:05:59,694
+In this case the quota is 36.
+
+115
+00:05:59,795 --> 00:06:03,314
+So Voldemort already has enough votes
+
+116
+00:06:03,414 --> 00:06:05,628
+to reach the 36 needed
+
+117
+00:06:05,728 --> 00:06:08,644
+and he immediately becomes the first
+member of parliament.
+
+118
+00:06:08,745 --> 00:06:12,666
+That makes sense because he already has
+more than a third of the votes.
+
+119
+00:06:12,862 --> 00:06:15,775
+However Voldemort only needed 36 votes
+
+120
+00:06:15,875 --> 00:06:19,094
+and the extra 18 were completely superfluous.
+
+121
+00:06:19,195 --> 00:06:22,413
+Instead of just throwing those votes away
+
+122
+00:06:22,514 --> 00:06:26,339
+we will give them to the second choice of the voter.
+
+123
+00:06:26,540 --> 00:06:29,556
+But because those votes already won a seat,
+
+124
+00:06:29,758 --> 00:06:33,277
+we will lower the value of the transferred vote.
+
+125
+00:06:33,378 --> 00:06:36,798
+We will take the second choice from all of the 54 votes
+
+126
+00:06:36,899 --> 00:06:42,432
+but the value will be divided by the proportion
+of the superfluous votes.
+
+127
+00:06:42,533 --> 00:06:47,866
+In this case the superfluous votes are 18 out of 54,
+
+128
+00:06:48,072 --> 00:06:49,983
+and that is one third of the votes.
+
+129
+00:06:50,084 --> 00:06:52,901
+Nine of the people who voted for Voldemort
+
+130
+00:06:53,002 --> 00:06:55,317
+had Malfoy as a second choice,
+
+131
+00:06:55,521 --> 00:06:58,740
+and the remaining 45 had Bellatrix.
+
+132
+00:06:58,840 --> 00:07:02,662
+So we'll give 15 votes to Bellatrix
+
+133
+00:07:02,862 --> 00:07:04,671
+and three to Malfoy.
+
+134
+00:07:04,772 --> 00:07:06,883
+And Voldemort disappears from the list.
+
+135
+00:07:06,984 --> 00:07:09,698
+The points for the second seat are now like this.
+
+136
+00:07:09,900 --> 00:07:14,123
+Now nobody has enough votes to reach the quota.
+
+137
+00:07:14,224 --> 00:07:17,646
+So we'll get rid of the one who has the least
+
+138
+00:07:17,747 --> 00:07:21,771
+and we'll share their votes with their next choice.
+
+139
+00:07:21,871 --> 00:07:26,296
+In this case the lowest is Malfoy
+who has three points.
+
+140
+00:07:26,397 --> 00:07:31,425
+The ones who voted for him preferred
+Bellatrix in third place,
+
+141
+00:07:31,526 --> 00:07:33,738
+because obivously they want someone from Slytherine.
+
+142
+00:07:33,838 --> 00:07:35,748
+So she'll get his points.
+
+143
+00:07:35,950 --> 00:07:37,458
+And he'll disappear from the list.
+
+144
+00:07:37,659 --> 00:07:39,672
+The same happens for Gilderoy.
+
+145
+00:07:39,875 --> 00:07:43,197
+His voters preferred Flitwick in second place.
+
+146
+00:07:43,297 --> 00:07:46,615
+He has four points which will go to Flitwick.
+
+147
+00:07:46,716 --> 00:07:48,726
+And he disappears from the list.
+
+148
+00:07:48,826 --> 00:07:51,240
+Nobody has enough points yet
+
+149
+00:07:51,442 --> 00:07:54,460
+and now McGonagall is in last place.
+
+150
+00:07:54,561 --> 00:07:57,275
+Her voters obviously wanted someone from Gryffindor
+
+151
+00:07:57,376 --> 00:08:00,999
+and so prefer Dumbledore
+as their next choice.
+
+152
+00:08:01,099 --> 00:08:03,613
+The five votes for McGonagall go to him
+
+153
+00:08:03,714 --> 00:08:05,021
+and she disappears from the list.
+
+154
+00:08:05,121 --> 00:08:06,832
+Now it's Weasley's turn.
+
+155
+00:08:06,932 --> 00:08:09,144
+His 15 votes go to Dumbledore
+
+156
+00:08:09,244 --> 00:08:10,954
+and he disappears from the list.
+
+157
+00:08:11,154 --> 00:08:15,477
+Finally Dumbledore has enough votes
+to reach the quota.
+
+158
+00:08:15,678 --> 00:08:18,894
+14 of those votes were superfluous,
+
+159
+00:08:18,994 --> 00:08:22,919
+so we'll transfer the votes to
+the next preferred candidate.
+
+160
+00:08:23,020 --> 00:08:27,040
+That is Flitwick, because the ones who wanted Gryffindor
+
+161
+00:08:27,246 --> 00:08:30,263
+would surely prefer anything
+than have someone from Slyherine.
+
+162
+00:08:30,364 --> 00:08:33,986
+28% of his votes were superfluous,
+
+163
+00:08:34,086 --> 00:08:37,407
+so we'll give 28% of 50 to Flitwick.
+
+164
+00:08:37,508 --> 00:08:40,624
+That makes 14 votes for Flitwick.
+
+165
+00:08:40,725 --> 00:08:43,137
+And Dumbledore disappears from the list.
+
+166
+00:08:43,238 --> 00:08:45,149
+Now Flitwick reaches the quota
+
+167
+00:08:45,250 --> 00:08:48,666
+and becomes the third and final
+member of parliament for that region.
+
+168
+00:08:48,767 --> 00:08:50,880
+So the three winners are:
+
+169
+00:08:50,980 --> 00:08:52,188
+Voldemort from Slytherine
+
+170
+00:08:52,289 --> 00:08:53,595
+Dumbledore from Gryffindor
+
+171
+00:08:53,695 --> 00:08:55,307
+and Flitwick from Ravenclaw
+
+172
+00:08:55,508 --> 00:08:58,124
+Now we have one candidate from each party.
+
+173
+00:08:58,225 --> 00:09:02,045
+That nicely reflects the fact that
+almost a third of the votes
+
+174
+00:09:02,146 --> 00:09:04,259
+went to each of the three parties.
+
+175
+00:09:04,359 --> 00:09:07,575
+The system proposed by the electoral reform society
+
+176
+00:09:07,676 --> 00:09:11,800
+has a big advantage over a system
+of pure proportional representation
+
+177
+00:09:12,001 --> 00:09:16,129
+and that is that you can still vote for a local candidate.
+
+178
+00:09:16,229 --> 00:09:20,455
+In that way you can still have someone
+who you have a connection with.
+
+179
+00:09:20,555 --> 00:09:23,774
+It's also good for independent candidates
+
+180
+00:09:23,874 --> 00:09:27,008
+who are popular only in one region.
+
+181
+00:09:27,109 --> 00:09:31,130
+The advantages over the current system of FPTP
+
+182
+00:09:31,228 --> 00:09:35,454
+are that it completely gets rid of
+the need to vote tactically
+
+183
+00:09:35,551 --> 00:09:38,768
+and you can vote for who you actually want
+
+184
+00:09:38,970 --> 00:09:42,289
+without risking your vote being thrown away.
+
+185
+00:09:42,490 --> 00:09:45,505
+It also introduces some kind of
+proportional representation
+
+186
+00:09:45,606 --> 00:09:48,724
+without completely overthrowing the current system.
+
+187
+00:09:48,824 --> 00:09:51,336
+The disadvantages could be
+
+188
+00:09:51,437 --> 00:09:53,649
+that it's a bit more complicated to understand.
+
+189
+00:09:53,950 --> 00:09:57,774
+However I think that you don't
+really need to understand
+
+190
+00:09:57,880 --> 00:09:59,791
+how the votes are counted to vote
+
+191
+00:09:59,892 --> 00:10:02,405
+because the only thing you need to do
+
+192
+00:10:02,506 --> 00:10:06,428
+is put the candidates in order of preference
+
+193
+00:10:06,528 --> 00:10:08,539
+and that is easy to understand.
+
+194
+00:10:08,640 --> 00:10:11,555
+You could argue that the current system itself
+
+195
+00:10:11,655 --> 00:10:14,572
+is very complicated for the voters.
+
+196
+00:10:14,673 --> 00:10:16,888
+Because if they want to vote well
+
+197
+00:10:16,988 --> 00:10:20,509
+they have to not only consider who they like most
+
+198
+00:10:20,609 --> 00:10:24,030
+but also who has a chance
+of winning in their consistuency.
+
+199
+00:10:24,131 --> 00:10:26,142
+So if you like the idea,
+
+200
+00:10:26,143 --> 00:10:29,865
+follow the link below to the
+electoral reform society.
+
+201
+00:10:29,966 --> 00:10:32,278
+And thanks for watching.
+
